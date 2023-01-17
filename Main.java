@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// display even and odd number
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter your number: ");
         int n = sc.nextInt();
